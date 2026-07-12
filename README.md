@@ -1,26 +1,26 @@
-Hi, I'm Sujan 👋
+# Hi, I'm Sujan 👋
 
-I'm a CSE-AIML student (3rd year) at Sreenidhi University, currently interning at Edodwaja Pvt Ltd, where I build the mobile app and web app for their EdTech platform.
+I'm a third-year CSE (AI & ML) student at Sreenidhi University and currently an intern at Edodwaja Pvt. Ltd., where I contribute to the development of their mobile and web applications for an EdTech platform.
 
-I mostly work on mobile and full-stack stuff — React Native, TypeScript, Expo, TanStack Start, and Supabase as the backend. I'm also learning system design.
+My primary focus is mobile and full-stack application development using React Native, TypeScript, Expo, TanStack Start, and Supabase. I'm also learning system design to build scalable software.
 
-I use AI tools to their fullest to build and ship faster, and I'm always trying to pick up new skills, open source contribution is something I want to get into as well.
+I use AI-assisted development to improve productivity and accelerate development workflows. I'm also interested in contributing to open source as I continue to grow as a developer.
 
-This is where I'll be uploading projects, experiments, and things I'm currently working on.
+This is where I share the projects, experiments, and ideas I'm currently working on.
 ---
 Tools & Tech
-- Expo, React Native, Expo Router, NativeWind
+- React Native, Expo, Expo Router, NativeWind
 - TypeScript, TanStack Start
-- My Sql, Supabase
+- MySQL, Supabase
 - Notion
 - AI-assisted development
 ---
 A Bit About Me
-- I play chess in my free time
-- I read — non-fiction only
-- I journal daily — part of my Notion habit tracker system
-- I am always into learning new skills
+- I enjoy playing chess in my free time.
+- I read non-fiction books.
+- I maintain a daily journal using my Notion habit tracker.
+- I'm always learning and exploring new technologies.
 ---
 Reach Me
 - Email: sujankumar0403@gmail.com
-- LinkedIn: [linkedin.com/in/a-sujan-kumar-085ba431b](https://www.linkedin.com/in/a-sujan-kumar-085ba431b)
+- LinkedIn: https://www.linkedin.com/in/a-sujan-kumar-085ba431b
