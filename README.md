@@ -13,20 +13,16 @@ This is where I'll be uploading projects, experiments, and things I'm currently 
 Tools & Tech
 - Expo, React Native, Expo Router, NativeWind
 - TypeScript, TanStack Start
-- Supabase
+- My Sql, Supabase
 - Notion
 - AI-assisted development
-
 ---
-
 A Bit About Me
 - I play chess in my free time
 - I read — non-fiction only
 - I journal daily — part of my Notion habit tracker system
 - I am allways into learning new skills 
-
 ---
-
 Reach Me
 - Email: sujankumar0403@gmail.com
 - LinkedIn: [linkedin.com/in/a-sujan-kumar-085ba431b](https://www.linkedin.com/in/a-sujan-kumar-085ba431b)
