@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Sujan 👋
 
-<!--
-**sujan-ak/sujan-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE-AIML student (3rd year) at Sreenidhi University, currently interning at Edodwaja Pvt Ltd, where I build the mobile app and web app for their EdTech platform.
 
-Here are some ideas to get you started:
+I mostly work on mobile and full-stack stuff — React Native, TypeScript, Expo, TanStack Start, and Supabase as the backend. I'm also learning system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use AI tools to their fullest to build and ship faster, and I'm always trying to pick up new skills.
+
+This is where I'll be uploading projects, experiments, and things I'm currently working on.
+
+---
+
+Tools & Tech
+- Expo, React Native, Expo Router, NativeWind
+- TypeScript, TanStack Start
+- Supabase
+- Notion
+- AI-assisted development
+
+---
+
+A Bit About Me
+- I play chess in my free time
+- I read — non-fiction only
+- I journal daily — part of my Notion habit tracker system
+- I am allways into learning new skills 
+
+---
+
+Reach Me
+- Email: sujankumar0403@gmail.com
+- LinkedIn: [linkedin.com/in/a-sujan-kumar-085ba431b](https://www.linkedin.com/in/a-sujan-kumar-085ba431b)
