@@ -1,4 +1,4 @@
-# Hi, I'm Sujan 👋
+# Hi, I'm Sujan 
 
 I'm a third-year CSE (AI & ML) student at Sreenidhi University and currently an intern at Edodwaja Pvt. Ltd., where I contribute to the development of their mobile and web applications for an EdTech platform.
 
